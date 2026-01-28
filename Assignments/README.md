@@ -1,1 +1,1 @@
-Assignemnts folder
+Assignments folder
